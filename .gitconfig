@@ -1,0 +1,17 @@
+[user]
+        name = Lloyd Pick
+        email = lloydpick@gmail.com
+[color]
+        ui = true
+[pack]
+        threads = 0
+[format]
+        pretty = oneline
+[push]
+        default = matching
+[github]
+        user = lloydpick
+[core]
+        excludesfile = /Users/lloyd/.gitignore
+[mergetool]
+        keepBackup = true
